@@ -1,4 +1,4 @@
-# 🧭 Pathfinding Visualizer
+#  Pathfinding Visualizer
 
 A Python application that visualizes how different algorithms solve mazes.
 
