@@ -23,8 +23,8 @@ This tool simulates a "robot" trying to get from Point A (Yellow) to Point B (Ma
 | **A** | Run **A*** (Finds the path quickly) |
 | **R** | **Reset** with a new maze |
 | **D** | Toggle **Terrain Weights** (Turn the river On/Off) |
-| **Left Click** | Draw Walls (Trap the AI) |
-| **Right Click** | Move the End Point |
+| **Left Click** | Start point |
+| **Right Click** | End Point |
 
 ## 👨‍💻 Tech Stack
 
