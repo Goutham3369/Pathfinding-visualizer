@@ -12,7 +12,6 @@ I built this to understand the difference between **Breadth-First Search (BFS)**
 
 This tool simulates a "robot" trying to get from Point A (Yellow) to Point B (Magenta).
 * **The Maze:** Generated randomly using Recursive Backtracking, then modified to have loops so there are multiple paths to choose from.
-* **The Challenge:** You can draw walls or turn on "River Mode" (Brown tiles) which cost more to cross.
 * **The Algorithms:**
     * **BFS:** Explores everywhere evenly. It guarantees the shortest path but is slow.
     * **A* (A-Star):** Uses a "smart" heuristic to guess where the goal is. It is much faster and creates a direct path.
