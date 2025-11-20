@@ -4,7 +4,9 @@ A Python application that visualizes how different algorithms solve mazes.
 
 I built this to understand the difference between **Breadth-First Search (BFS)** and **A* Search**, specifically how they handle obstacles and terrain costs (like rivers or mud).
 
-![Demo Screenshot](Demo.png)
+<p align="center">
+  <img src="demo.png" alt="Demo Screenshot" width="50%">
+</p>
 
 ## 🎮 How it Works
 
