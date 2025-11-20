@@ -25,6 +25,7 @@ This tool simulates a "robot" trying to get from Point A (Yellow) to Point B (Ma
 | **D** | Toggle **Terrain Weights** (Turn the river On/Off) |
 | **Left Click** | Start point |
 | **Right Click** | End Point |
+| **1/2** | select backtrace/Prim Maze |
 
 ## 👨‍💻 Tech Stack
 
